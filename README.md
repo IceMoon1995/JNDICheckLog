@@ -1,6 +1,6 @@
 # JNDICheckLog
 
-JNDIChekLog，主要检测JNDI反连情况，适用于在无dnslog或者内部网络环境情况下探测log4j，fastjson等反连型漏洞。(仅支持连接检测，不支持漏洞利用，目标服务器需可访问部署服务的机器)
+JNDIChekLog，主要检测JNDI反连情况，适用于在无dnslog或者内部网络环境情况下，利用ldap探测log4j，fastjson等反连型漏洞。(仅支持连接检测，不支持漏洞利用，目标服务器需可访问部署服务的机器)
 
 
 ## 使用方法
